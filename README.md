@@ -12,16 +12,18 @@ npx clean-react-app
 
 # :wrench: Changes
 
-Markup : _ Unnecessary files have been removed
-Markup : _ CSS Modules have been enabled
-Markup : _ SASS enabled
-Markup : _ Public folder is clean
+- Unnecessary files have been removed
+- CSS Modules have been enabled
+- SASS enabled
+- Public folder is clean
 
 After installation ⬇️
 
 ```bash
 yarn add or npm install
 ```
+
+To run project
 
 ```bash
 yarn start or npm start
