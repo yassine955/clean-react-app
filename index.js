@@ -8,7 +8,7 @@ ncp.limit = 16;
   const currentDIR = __dirname;
   const frame = 'clean-react-app';
   const msg = `Successfully installed ${frame} ✅`;
-  const dirToGo = `${cwd}/test`;
+  const dirToGo = `${cwd}/`;
   ncp(`${currentDIR}/template/`, dirToGo, err => {
     if (err) return console.error(err);
     console.log(msg);
