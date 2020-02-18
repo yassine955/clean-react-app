@@ -1,6 +1,6 @@
 {
   "name": "clean-react-app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "clean-react-app is basically React without all the garbage 🗑️",
   "main": "index.js",
   "bin": "index.js",
